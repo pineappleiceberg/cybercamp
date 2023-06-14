@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 50px;
+}
+
+.sensor-temperatures {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.sensor-temperature {
+  margin: 20px;
+}
+
+.sensor-temperature h2 {
+  font-size: 18px;
+}
+
+.sensor-temperature p {
+  font-size: 24px;
+  font-weight: bold;
+}

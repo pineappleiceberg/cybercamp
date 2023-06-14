@@ -1,2 +1,0 @@
-# cybercamp
-For the MCA
